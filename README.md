@@ -125,8 +125,8 @@ public class CurrentFocus {
 ## 📈 Experience Highlights
 
 - 🏢 **CADD Emirates** - Modernizing government systems for Sharjah Prevention & Safety Authority
-- 🔐 **Super Future** - Built blockchain-based VPN platform with payment microservices
-- 🏨 **Neorcha** - Led cloud migration and team across 5 countries (UAE, Iraq, Egypt, Germany, France)
+- 🔐 **Super Future** - Built VPN platform with payment microservices
+- 🏨 **Neorcha** - Led cloud migration and collaborate with team across countries (UAE, Egypt, Germany, France)
 - 🌐 **Applink** - Developed full-stack VPN solutions with 12% revenue boost
 
 ---
