@@ -9,7 +9,7 @@
 Transforming business challenges into scalable technical solutions with **10+ years** of experience building enterprise-grade applications across fintech, government, and hospitality sectors.
 
 ### 💼 Currently
-- 🏢 **Senior Software Engineer** at CADD Emirates (Sharjah Prevention & Safety Authority)
+- 🏢 **Senior Software Engineer** at CADD Emirates (Sharjah Prevention & Safety Authority | Sharjah Police)
 - 🔧 Architecting enterprise-grade full-stack applications
 - 🌱 Focused on microservices, cloud infrastructure, and DevOps automation
 
