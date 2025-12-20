@@ -146,7 +146,7 @@ Sports academy management platform for Sharjah, Dubai, and Ajman
 - **Features:** Academy registration, class scheduling, sports program management
 - **Services:** Football, Basketball, Tennis, Swimming, Gymnastics
 - **Established:** 2014 - Family-run sports academy
-- **Live Site:** [prosportsuae.com](https://www.prosportsuae.com/)
+- **Live Site:** [prosportsuae.infinityfree.me](https://prosportsuae.infinityfree.me/)
 
 ---
 
