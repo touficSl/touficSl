@@ -139,6 +139,7 @@ Non-profit organization website with content management system
 - **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript
 - **Features:** Dynamic content management, multilingual support, donation system
 - **Purpose:** Supporting humanitarian missions and community outreach
+- **Live Site:** [internationalmissiondevie.org](https://internationalmissiondevie.org/)
 
 ### ⚽ [ProSports UAE](https://prosportsuae.infinityfree.me/)
 Sports academy management platform for Sharjah, Dubai, and Ajman
