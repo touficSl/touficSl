@@ -132,6 +132,24 @@ Python-based water detection application
 
 ---
 
+## 🎨 Freelance Projects
+
+### 🌐 [International Mission de Vie](https://internationalmissiondevie.org/)
+Non-profit organization website with content management system
+- **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript
+- **Features:** Dynamic content management, multilingual support, donation system
+- **Purpose:** Supporting humanitarian missions and community outreach
+
+### ⚽ [ProSports UAE](https://prosportsuae.infinityfree.me/)
+Sports academy management platform for Sharjah, Dubai, and Ajman
+- **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript
+- **Features:** Academy registration, class scheduling, sports program management
+- **Services:** Football, Basketball, Tennis, Swimming, Gymnastics
+- **Established:** 2014 - Family-run sports academy
+- **Live Site:** [prosportsuae.com](https://www.prosportsuae.com/)
+
+---
+
 ## 💡 What I'm Working On
 
 ```java
