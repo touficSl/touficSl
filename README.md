@@ -195,6 +195,7 @@ I'm always open to discussing new projects, collaborations, or opportunities in 
 
 - 📧 Email: touficsleiman.uae@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/toufic-sleiman](https://linkedin.com/in/toufic-sleiman)
+- [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5033352/toufic-sleiman)
 - 📱 Phone: +971 56 611 4217
 - 🌍 Location: Dubai, UAE
 
