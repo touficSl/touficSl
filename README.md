@@ -29,6 +29,8 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,6 +38,10 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -65,6 +71,9 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
+### Data Science & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
@@ -80,23 +89,46 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 
 ### 🏛️ [Tracking System](https://github.com/touficSl/tracking-system)
 Enterprise-level tracking system built with C# and .NET for comprehensive asset management
-- **Tech Stack:** C#, .NET, SQL Server
-- **Features:** Real-time tracking, reporting, data visualization
+- **Tech Stack:** C#, .NET, SQL Server, ASP.NET
+- **Features:** Real-time tracking, reporting, data visualization, database management
+- **Highlights:** Complete CRUD operations, responsive design, secure authentication
+- 🎥 [Watch Demo](https://www.youtube.com/watch?v=hVB9ufdNPTk&list=PLzk4y0RlbNFZYXXRw8rFiGrPfu-KNb9f5)
+
+### 💊 [Pharmacy Management System](https://github.com/touficSl/pharmacy)
+Full-featured pharmacy management solution with Laravel
+- **Tech Stack:** Laravel, PHP, MySQL, Bootstrap
+- **Features:** Medicine inventory management, order processing, prescription handling
+- **Use Cases:** Medical stores, pharmacies, healthcare facilities
 
 ### 🛒 [E-commerce Platform](https://github.com/touficSl/ecommerce)
 Full-featured e-commerce solution with ASP.NET MVC
 - **Tech Stack:** ASP.NET, C#, Entity Framework, SQL Server
-- **Features:** Product catalog, shopping cart, payment integration
+- **Features:** Product catalog, shopping cart, order management, payment integration
+- **Target Audience:** Beginners learning e-commerce development
 
 ### 💪 [Gym Booking System](https://github.com/touficSl/gym-booking)
 Online booking platform for fitness centers
-- **Tech Stack:** HTML, CSS, JavaScript, Backend API
-- **Features:** Class scheduling, member management, payment processing
+- **Tech Stack:** C# Windows Application, HTML5, CSS, Bootstrap, ASP.NET
+- **Features:** Class scheduling, member management, booking management
+- **Interface:** Modern and responsive UI design
+
+### 🎮 [Android Game](https://github.com/touficSl/small-game)
+Android game project for learning mobile development
+- **Tech Stack:** Java, Android SDK
+- **Features:** Game mechanics, mobile UI, interactive gameplay
+- **Purpose:** Educational project for Android development beginners
 
 ### 💳 [Payment Logic](https://github.com/touficSl/payment-logic)
 Android payment integration with server-side processing
 - **Tech Stack:** Java, Android SDK, RESTful APIs
-- **Features:** Multiple payment gateways, secure transactions
+- **Features:** Payment gateway integration, secure transactions, server communication
+- **Includes:** Complete payment flow scenarios and documentation
+
+### 🌊 [Water Detection System](https://github.com/touficSl/water-detection)
+Python-based water detection application
+- **Tech Stack:** Python
+- **Application:** Environmental monitoring, data analysis
+- **Use Cases:** Water quality monitoring, detection systems
 
 ---
 
@@ -126,7 +158,7 @@ public class CurrentFocus {
 
 - 🏢 **CADD Emirates** - Modernizing government systems for Sharjah Prevention & Safety Authority
 - 🔐 **Super Future** - Built VPN platform with payment microservices
-- 🏨 **Neorcha** - Led cloud migration and collaborate with team across countries (UAE, Egypt, Germany, France)
+- 🏨 **Neorcha** - Led cloud migration and collaborated with teams across countries (UAE, Egypt, Germany, France)
 - 🌐 **Applink** - Developed full-stack VPN solutions with 12% revenue boost
 
 ---
