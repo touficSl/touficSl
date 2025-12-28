@@ -140,9 +140,9 @@ Android game project for learning mobile development
 - **Purpose:** Educational project for Android development beginners
 
 ### 💳 [Payment Logic](https://github.com/touficSl/payment-logic)
-Android payment integration with server-side processing
+Payment integration logic with server-side validation and automated recurring billing system
 - **Tech Stack:** Java, Android SDK, RESTful APIs
-- **Features:** Payment gateway integration, secure transactions, server communication
+- **Features:** Payment gateway integration, secure transactions, server communication, recurring payment
 - **Includes:** Complete payment flow scenarios and documentation
 
 ### 🌊 [Water Detection System](https://github.com/touficSl/water-detection)
