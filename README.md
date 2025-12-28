@@ -80,8 +80,8 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touficSl&show_icons=true&theme=radical&hide_border=true&cache_seconds=0" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touficSl&layout=compact&theme=radical&hide_border=true&cache_seconds=0" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=touficSl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=touficSl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 ---
