@@ -93,6 +93,11 @@ Full-stack VPN platform with robust authentication and authorization
 **Tech Stack:** `Java` `Spring Boot` `JWT` `Redis` `REST API`  
 ⭐ JWT authentication • Redis caching • REST API architecture
 
+### 💳 [Android Payment Gateway Integration](https://github.com/touficSl/android-payment-gateway-integration)
+Complete payment solution with Android client and server-side processing  
+**Tech Stack:** `Android` `Payment Gateway` `System Architecture`  
+⭐ End-to-end payment flow • Server-side validation • Architecture design
+
 ### 🎯 [Spring Boot Java Project](https://github.com/touficSl/spring-boot-java-project)
 Comprehensive Spring Boot showcase featuring security and multi-tenancy  
 **Tech Stack:** `Java` `Spring Boot` `JWT` `Multi-tenancy` `Security`  
