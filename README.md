@@ -88,12 +88,27 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 
 ## 🌟 Featured Projects
 
+### 🔐 [VPN Platform](https://github.com/touficSl/vpn-platform)
+Full-stack VPN platform with robust authentication and authorization  
+**Tech Stack:** `Java` `Spring Boot` `JWT` `Redis` `REST API`  
+⭐ JWT authentication • Redis caching • REST API architecture
+
+### 🎯 [Spring Boot Java Project](https://github.com/touficSl/spring-boot-java-project)
+Comprehensive Spring Boot showcase featuring security and multi-tenancy  
+**Tech Stack:** `Java` `Spring Boot` `JWT` `Multi-tenancy` `Security`  
+⭐ JWT authentication • Multi-tenant architecture • Advanced Spring Security
+
 ### 🏛️ [Tracking System](https://github.com/touficSl/tracking-system)
 Enterprise-level tracking system built with C# and .NET for comprehensive asset management
 - **Tech Stack:** C#, .NET, SQL Server, ASP.NET
 - **Features:** Real-time tracking, reporting, data visualization, database management
 - **Highlights:** Complete CRUD operations, responsive design, secure authentication
 - 🎥 [Watch Demo](https://www.youtube.com/watch?v=hVB9ufdNPTk&list=PLzk4y0RlbNFZYXXRw8rFiGrPfu-KNb9f5)
+
+### 🔑 [Auth Service](https://github.com/touficSl/auth) 
+Microservice for authentication and authorization  
+**Tech Stack:** `Java` `Spring Boot` `JWT` `OAuth`  
+⭐ JWT token management • Role-based access control • Microservices ready
 
 ### 💊 [Pharmacy Management System](https://github.com/touficSl/pharmacy)
 Full-featured pharmacy management solution with Laravel
