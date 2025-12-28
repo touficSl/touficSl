@@ -210,6 +210,12 @@ public class CurrentFocus {
 
 ---
 
+## My Resume
+
+📄 **[View Resume (PDF)](https://drive.google.com/file/d/1w2ni-k_Au0w6tODWZ8oPLv-Poa1yWU-d/view)**  
+
+---
+
 ## 📫 Let's Connect!
 
 I'm always open to discussing new projects, collaborations, or opportunities in software engineering, cloud architecture, and DevOps.
