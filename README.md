@@ -90,7 +90,18 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 
 ### 💬 [Websocket Chat Service](https://github.com/touficSl/websocket-chat-service)
 Real-time hotel-guest communication platform with WebSocket messaging  
-**Tech Stack:** `Java` `Spring Boot` `WebSocket` `HTML5` `CSS` `Bootstrap` `JavaScript` `Ajax` `Docker`  
+- **Tech Stack:** `Java` `Spring Boot` `WebSocket` `HTML5` `CSS` `Bootstrap` `JavaScript` `Ajax` `Docker`  
+- **Hotel Chat Dashboard:**
+<img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/e2f0110e-92fd-4571-8790-f36353c8f01b" />
+<img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/96ac78e9-64cd-426c-9873-514fd78df07a" />
+<img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/29079d7b-0ed2-4bff-8539-0f866d56e27a" />
+
+- **User Chat Dashboard:**
+<img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/0fd0d316-cfee-4a7b-8e5a-7220cca7fc52" />
+<img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/2017b56f-f3b9-4753-9905-c7d64388ad07" />
+
+
+
 ⭐ WebSocket real-time messaging • Hotel-guest communication • Dockerized deployment • AWS CI/CD pipeline
 
 ### 🔐 [VPN Platform](https://github.com/touficSl/vpn-platform)
