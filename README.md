@@ -101,6 +101,7 @@ Full-stack VPN platform with robust authentication and authorization
 ### 💳 [Google/Apple Payment Check](https://github.com/touficSl/google-apple-payment-check)
 Windows desktop application for validating Google Play and Apple App Store payments  
 **Tech Stack:** `C#` `WPF` `.NET`  
+- 🎥 [Watch Demo](https://www.youtube.com/watch?v=LXDoVMsRZOU)
 ⭐ Payment verification • Cross-platform validation • Desktop application
 
 ### 🎯 [Spring Boot Java Project](https://github.com/touficSl/spring-boot-java-project)
