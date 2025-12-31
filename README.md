@@ -88,6 +88,11 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 
 ## 🌟 Featured Projects
 
+### 💬 [Websocket Chat Service](https://github.com/touficSl/websocket-chat-service)
+Real-time hotel-guest communication platform with WebSocket messaging  
+**Tech Stack:** `Java` `Spring Boot` `WebSocket` `HTML5` `CSS` `Bootstrap` `JavaScript` `Ajax` `Docker`  
+⭐ WebSocket real-time messaging • Hotel-guest communication • Dockerized deployment • AWS CI/CD pipeline
+
 ### 🔐 [VPN Platform](https://github.com/touficSl/vpn-platform)
 Full-stack VPN platform with robust authentication and authorization  
 **Tech Stack:** `Java` `Spring Boot` `JWT` `Redis` `REST API`  
