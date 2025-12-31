@@ -91,6 +91,7 @@ Transforming business challenges into scalable technical solutions with **10+ ye
 ### 💬 [Websocket Chat Service](https://github.com/touficSl/websocket-chat-service)
 Real-time hotel-guest communication platform with WebSocket messaging  
 - **Tech Stack:** `Java` `Spring Boot` `WebSocket` `HTML5` `CSS` `Bootstrap` `JavaScript` `Ajax` `Docker`  
+- **Logic:** https://level-blue-iuil9sik0u.edgeone.app/
 - **Hotel Chat Dashboard:**
 <img width="480" height="210" alt="image" src="https://github.com/user-attachments/assets/e2f0110e-92fd-4571-8790-f36353c8f01b" />
 <img width="480" height="210" alt="image" src="https://github.com/user-attachments/assets/96ac78e9-64cd-426c-9873-514fd78df07a" />
